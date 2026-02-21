@@ -1,7 +1,7 @@
 # Hi there, I'm Thulana Weerasekara 👋 
 
 ### 🎓 Computer Science & Engineering Undergraduate | Data Science Specialist
-I am a final-year student at the **University of Moratuwa**  with a passion for building robust software and exploring the intersection of **Web Technologies** and **Machine Learning**[cite: 4, 6].
+I am a final-year student at the **University of Moratuwa**  with a passion for building robust software and exploring the intersection of **Web Technologies** and **Machine Learning**.
 
 ---
 
@@ -22,8 +22,8 @@ I am a final-year student at the **University of Moratuwa**  with a passion for 
 ---
 
 ### 💻 Professional Experience
-**Software Engineer Intern | [cite_start]GTN Technologies** (Dec 2024 – Aug 2025)
-* Developed and maintained production-level fintech applications (Rubix, GTN Invest, CCP).
+**Software Engineer Intern | GTN Technologies** (Dec 2024 – Aug 2025)
+* Developed and maintained production-level fintech applications (Rubix, GTN Invest, CCP, MicroInvest).
 * Built reusable frontend components using **Angular** and integrated **AWS AppConfig** for configuration management.
 * Automated testing workflows using **Playwright** to ensure high-quality deployments.
 
@@ -31,16 +31,12 @@ I am a final-year student at the **University of Moratuwa**  with a passion for 
 
 ### 🌟 Key Projects
 
+* **🧙🏻‍♀️ SkyCast AI:** Smart weather application that provides real-time weather information for any location and offers an interactive chat experience using AI powered assistants.
 * **🎨 MWP Visual Generation:** An AI system generating accurate visuals for primary math problems using **SVG synthesis** and **Text-to-Image** models.
 * **🩺 CardioCare:** Cardiovascular disease prediction using a hybrid **CNN-LSTM** model with a **MERN stack** interface.
 * **🤖 MediBot:** A medical assistant chatbot utilizing **Retrieval-Augmented Generation (RAG)** and **PineconeDB**.
 * **📄 MS-LED Summarization:** Enhanced the **LED model** to handle long documents (16k+ tokens) through recursive summary merging.
 
----
-
-### 📈 Stats & Activity
-![Thulana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight)
 
 ---
 
