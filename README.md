@@ -1,7 +1,11 @@
 # Hi there, I'm Thulana Weerasekara 👋 
 
-### 🎓 Computer Science & Engineering Undergraduate | Data Science Specialist
-I am a final-year student at the **University of Moratuwa**  with a passion for building robust software and exploring the intersection of **Web Technologies** and **Machine Learning**.
+### 🎓 Computer Science & Engineering
+Computer Science and Engineering undergraduate at the University of Moratuwa, with hands on experience
+as a Software Engineer Intern at GTN Technologies. Experienced in building and maintaining frontend and
+backend features using Angular, JavaScript, Node.js, and modern web technologies. Strong foundation in
+software engineering with exposure to AI/ML driven applications. Fast learner with strong problem solving
+skills.
 
 ---
 
